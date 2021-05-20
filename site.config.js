@@ -22,7 +22,7 @@ module.exports = {
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
-  // page-specific values will override these site-wide defaults
+  // page-specific values will override these site-wide defaults.
   defaultPageIcon: null,
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
